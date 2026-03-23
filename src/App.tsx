@@ -195,6 +195,11 @@ export default function App() {
               SI NO APARECES EN GOOGLE, NO EXISTES.
             </span>
           </h1>
+          <div className="mb-8 inline-block bg-[#FF0099]/10 border border-[#FF0099]/30 px-6 py-2 rounded-lg">
+            <p className="text-[#FF0099] font-bold text-xl md:text-2xl uppercase tracking-tighter">
+              Planes Profesionales desde <span className="text-white text-3xl md:text-4xl ml-2">$599.000 ARS</span>
+            </p>
+          </div>
           <p className="text-lg md:text-xl text-[#AAAAAA] max-w-3xl mx-auto mb-10">
             Llevamos tu negocio al mundo digital en tiempo récord. Sitios web de alto rendimiento, posicionamiento estratégico y ventas online — todo bajo una misma orquestación técnica.
           </p>
